@@ -76,7 +76,7 @@ namespace kelimeoyunu
             // 
             // button1
             // 
-            this.button1.BackColor = System.Drawing.Color.SkyBlue;
+            this.button1.BackColor = System.Drawing.Color.Crimson;
             this.button1.FlatAppearance.BorderSize = 0;
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));

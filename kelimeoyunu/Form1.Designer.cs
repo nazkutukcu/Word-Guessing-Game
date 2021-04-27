@@ -77,7 +77,7 @@ namespace kelimeoyunu
             // 
             // button1
             // 
-            this.button1.BackColor = System.Drawing.Color.SkyBlue;
+            this.button1.BackColor = System.Drawing.Color.Crimson;
             this.button1.FlatAppearance.BorderSize = 0;
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
@@ -119,7 +119,7 @@ namespace kelimeoyunu
             // 
             // button2
             // 
-            this.button2.BackColor = System.Drawing.Color.SkyBlue;
+            this.button2.BackColor = System.Drawing.Color.Crimson;
             this.button2.FlatAppearance.BorderSize = 0;
             this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button2.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
@@ -159,7 +159,7 @@ namespace kelimeoyunu
             // 
             // harfal
             // 
-            this.harfal.BackColor = System.Drawing.Color.SkyBlue;
+            this.harfal.BackColor = System.Drawing.Color.Crimson;
             this.harfal.FlatAppearance.BorderSize = 0;
             this.harfal.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.harfal.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
@@ -250,7 +250,6 @@ namespace kelimeoyunu
             // pnl_header
             // 
             this.pnl_header.BackColor = System.Drawing.Color.Crimson;
-            this.pnl_header.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pnl_header.BackgroundImage")));
             this.pnl_header.Controls.Add(this.btn_max1);
             this.pnl_header.Controls.Add(this.btn_min);
             this.pnl_header.Controls.Add(this.btn_max2);
@@ -399,7 +398,7 @@ namespace kelimeoyunu
             this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
             this.pictureBox4.Location = new System.Drawing.Point(16, 63);
             this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(202, 113);
+            this.pictureBox4.Size = new System.Drawing.Size(147, 113);
             this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox4.TabIndex = 23;
             this.pictureBox4.TabStop = false;
@@ -428,7 +427,7 @@ namespace kelimeoyunu
             // 
             // button3
             // 
-            this.button3.BackColor = System.Drawing.Color.SkyBlue;
+            this.button3.BackColor = System.Drawing.Color.Crimson;
             this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button3.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.button3.ForeColor = System.Drawing.SystemColors.ControlDark;
